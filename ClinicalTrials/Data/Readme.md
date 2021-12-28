@@ -1,2 +1,2 @@
-### All_Batches: the Clinical Trials data
+### Batch_0..3 : the Clinical Trials data
 ### User Input : TestData
